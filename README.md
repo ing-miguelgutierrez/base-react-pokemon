@@ -1,1 +1,1 @@
-# base-react-pokemon
+# base-react-pokemon-go
